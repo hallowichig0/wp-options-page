@@ -11,7 +11,7 @@ Learn more in our [wiki](https://github.com/luizbills/wp-options-page/wiki).
 Install using composer:
 
 ```
-composer require luizbills/wp-options-page
+composer require hallowichig0/wp-options-page
 ```
 
 Or just copy [`src/class-wp-options-page.php`](/src/class-wp-options-page.php) to your project and include in your code:
